@@ -1012,6 +1012,8 @@ p {
 main.main-06 {
   background: #0A0A0A;
   overflow: hidden;
+  width: 100%; 
+  height: 100vh;
 }
 
 main .header.header-06 {
